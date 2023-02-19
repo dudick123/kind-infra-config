@@ -1,1 +1,1 @@
-# kind-infra
+# kind-infra-config
